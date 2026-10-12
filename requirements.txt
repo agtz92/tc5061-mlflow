@@ -1,0 +1,10 @@
+# Probado con Python 3.13
+mlflow==3.16.1
+scikit-learn==1.9.1
+pandas==3.0.5
+numpy==2.5.3
+scipy==1.18.1
+matplotlib==3.11.2
+kagglehub==1.0.2
+# Solo para el notebook de EDA
+seaborn==0.13.2
